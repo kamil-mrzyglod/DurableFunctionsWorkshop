@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DurableFunctions.History", "DurableFunctions.History\DurableFunctions.History.csproj", "{39375CFC-1923-49E5-9411-5A10C10B1141}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DurableFunctions.Status", "DurableFunctions.Status\DurableFunctions.Status.csproj", "{19A14559-437B-4687-B401-F3616CA7432C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39375CFC-1923-49E5-9411-5A10C10B1141}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39375CFC-1923-49E5-9411-5A10C10B1141}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39375CFC-1923-49E5-9411-5A10C10B1141}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39375CFC-1923-49E5-9411-5A10C10B1141}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19A14559-437B-4687-B401-F3616CA7432C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19A14559-437B-4687-B401-F3616CA7432C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19A14559-437B-4687-B401-F3616CA7432C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19A14559-437B-4687-B401-F3616CA7432C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F884D640-67F2-405E-B127-6E82B31A66F4}
+	EndGlobalSection
+EndGlobal
